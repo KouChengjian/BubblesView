@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0000ff">
+
+    
+    <RelativeLayout 
+        android:id="@+id/rlLayout"
+        android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="#ffffff">
+        
+    </RelativeLayout>
+    
+    <!-- <com.example.v.BubblesView
+        android:id="@+id/circle_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/> -->
+
+</RelativeLayout>
